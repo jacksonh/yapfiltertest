@@ -3,7 +3,7 @@
 //  yapfiltertest
 //
 //  Created by Jackson Harper on 1/7/14.
-//  Copyright (c) 2014 SyntaxTree. All rights reserved.
+//  Copyright (c) 2014 Harper Semiconductors, Inc.
 //
 
 #import <Foundation/Foundation.h>
